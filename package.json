@@ -1,0 +1,23 @@
+{
+  "name": "draw-shapes",
+  "version": "1.0.0",
+  "description": "This Package contains code for drawing lines with in the canvas and used to fill the canvas with characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui qunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeyashankerlk/draw-shapes.git"
+  },
+  "keywords": [
+    "draw",
+    "shapes"
+  ],
+  "author": "Jeya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeyashankerlk/draw-shapes/issues"
+  },
+  "homepage": "https://github.com/jeyashankerlk/draw-shapes#readme"
+}
